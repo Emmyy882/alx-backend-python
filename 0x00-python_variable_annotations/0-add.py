@@ -5,4 +5,5 @@
 
 
 def add(a: float, b: float) -> float:
+    """returns the sum of two float argumuments"""
     return a + b
