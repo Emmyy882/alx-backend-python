@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """A script that implements an asynchronous coroutine"""
-
-
 import asyncio
 import random
 
